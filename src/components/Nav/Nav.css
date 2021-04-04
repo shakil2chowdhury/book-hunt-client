@@ -1,0 +1,15 @@
+.nav-bar {
+    display: flex;
+    margin-right: 1rem;
+    justify-content: space-around;
+    margin: 1rem auto 1rem auto;
+}
+
+.nav-logo > img {
+    width: 60%;
+}
+
+.nav-links > a {
+    text-decoration: none;
+    margin-right: 1.5rem;
+}

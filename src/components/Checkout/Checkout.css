@@ -1,0 +1,11 @@
+.checkout-section {
+    margin: 2rem auto;
+    width: 70%;
+}
+
+.checkout-list {
+    border-radius: 15px;
+    padding: 0.5rem;
+    border: 1px solid black;
+    box-shadow: black 2px 1px 10px;
+}

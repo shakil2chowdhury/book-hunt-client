@@ -1,0 +1,13 @@
+.cards-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 3rem;
+    margin: 3rem auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .cards-container {
+        display: block;
+        margin: 3rem auto;
+    }
+  }
